@@ -1,4 +1,4 @@
-// <reference path="C:\Users\思远\documents\visual studio 2013\Projects\ApplicationHost\WebApplication1\easeljs-0.8.2.min.js" />
+// <reference path="C:\Users\思远\documents\visual studio 2013\Projects\ApplicationHost\WebApplication1\easeljs-0.8.2.min.js" />666
  
 var gameView = document.getElementById("gameView");
 var stage = new createjs.Stage(gameView);
