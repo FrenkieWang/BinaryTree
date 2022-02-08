@@ -1,12 +1,12 @@
-// <reference path="C:\Users\思远\documents\visual studio 2013\Projects\ApplicationHost\WebApplication1\easeljs-0.8.2.min.js" />666
+// Design by Frenkie Wang. Use Javascript to draw Binary Tree.
  
 var gameView = document.getElementById("gameView");
 var stage = new createjs.Stage(gameView);
-var height = 50;//节点之间的高
-var width = 15;//节点之间的宽
-var tops = 40;//根节点离顶部的距离
-var foot = 40;//树离底部距离
-var spacing = 30;//树分别离两边的间距
+var height = 50;//Height between nodes
+var width = 15;//Width between nodes
+var tops = 40;//Root node to the top
+var foot = 40;//Binary tree to the bottom
+var spacing = 30;//Tree to the left&right sides
  
 var tree = new BinaryTree();
  
