@@ -1,4 +1,4 @@
-// Design by Frenkie Wang. Use JavaScript to draw BinaryTree.
+// Design by Frenkie Wang. Use JavaScript to draw BinaryTree. Edited by Zihao Long.
  
 var gameView = document.getElementById("gameView");
 var stage = new createjs.Stage(gameView);
